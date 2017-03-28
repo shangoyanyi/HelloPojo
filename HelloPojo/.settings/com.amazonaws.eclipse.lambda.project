@@ -1,0 +1,7 @@
+#Lambda Function Project Metadata
+#Tue Mar 28 13:39:21 CST 2017
+lastInvokeShowLiveLog=true
+lastDeploymentFunctionName=HelloPojo
+lastDeploymentBucketName=lambda-function-bucket-ap-northeast-1-1490669960411
+lastDeploymentEndpoint=https\://lambda.ap-northeast-1.amazonaws.com/
+lastInvokeInput={ "firstName"\:"John", "lastName"\:"Doe" }
